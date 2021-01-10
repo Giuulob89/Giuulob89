@@ -10,4 +10,4 @@
 
 ![Giulia Lobo's github stats](https://github-readme-stats.vercel.app/api?username=giuulob89&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuulob89&title_color=ff69b4)](https://github.com/giuulob89/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuulob89&theme=dracula)](https://github.com/giuulob89/github-readme-stats)
